@@ -1,0 +1,986 @@
+[
+    {
+     "User": "Alla Gushchina",
+     "Description": "ALL",
+     "Time (h)": "138:19:05",
+     "Time (decimal)": 138.31805555555556
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "farben",
+     "Time (h)": "00:53:09",
+     "Time (decimal)": 0.8858333333333334
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "Erstellung des Backlogs",
+     "Time (h)": "03:20:00",
+     "Time (decimal)": 3.3333333333333335
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "prototyping",
+     "Time (h)": "00:28:31",
+     "Time (decimal)": 0.4752777777777778
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "mobile timeline design",
+     "Time (h)": "07:51:47",
+     "Time (decimal)": 7.8630555555555555
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "clockify",
+     "Time (h)": "00:20:00",
+     "Time (decimal)": 0.3333333333333333
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "projektmanagement tool aussuchen, backlog erstellen",
+     "Time (h)": "02:40:00",
+     "Time (decimal)": 2.6666666666666665
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "toft besprechen",
+     "Time (h)": "00:50:00",
+     "Time (decimal)": 0.8333333333333334
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "plakat toft",
+     "Time (h)": "00:20:00",
+     "Time (decimal)": 0.3333333333333333
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "notiz, schrift",
+     "Time (h)": "01:45:02",
+     "Time (decimal)": 1.7505555555555556
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "Ziele definieren",
+     "Time (h)": "02:30:00",
+     "Time (decimal)": 2.5
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "inspo gucken",
+     "Time (h)": "00:31:00",
+     "Time (decimal)": 0.5166666666666667
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "notiz",
+     "Time (h)": "03:32:38",
+     "Time (decimal)": 3.543888888888889
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "Timeline Designs",
+     "Time (h)": "04:05:00",
+     "Time (decimal)": 4.083333333333333
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "design lernen, landing page",
+     "Time (h)": "05:30:00",
+     "Time (decimal)": 5.5
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "ais gucken",
+     "Time (h)": "00:15:00",
+     "Time (decimal)": 0.25
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "grautöne",
+     "Time (h)": "01:02:03",
+     "Time (decimal)": 1.0341666666666667
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "branding book nachbearbeitungen",
+     "Time (h)": "00:40:00",
+     "Time (decimal)": 0.6666666666666666
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "vorstellungswebsite machen",
+     "Time (h)": "01:40:00",
+     "Time (decimal)": 1.6666666666666667
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "vorstellungswebsite",
+     "Time (h)": "04:05:00",
+     "Time (decimal)": 4.083333333333333
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "schrift, notiz, login, features, fotos",
+     "Time (h)": "02:47:42",
+     "Time (decimal)": 2.795
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "mobile timeline",
+     "Time (h)": "14:44:17",
+     "Time (decimal)": 14.738055555555556
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "besprechungen",
+     "Time (h)": "00:36:31",
+     "Time (decimal)": 0.6086111111111111
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "komponenten",
+     "Time (h)": "06:14:35",
+     "Time (decimal)": 6.243055555555555
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "risikoanalyse",
+     "Time (h)": "00:30:00",
+     "Time (decimal)": 0.5
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "landing page, logo, timeline",
+     "Time (h)": "04:00:00",
+     "Time (decimal)": 4
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "plakat gang",
+     "Time (h)": "01:50:00",
+     "Time (decimal)": 1.8333333333333333
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "designen",
+     "Time (h)": "03:30:00",
+     "Time (decimal)": 3.5
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "mobile timeline design, figma bissi aufgeräumt lol",
+     "Time (h)": "03:11:45",
+     "Time (decimal)": 3.1958333333333333
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "dashboard, user profile, foto feature",
+     "Time (h)": "01:13:52",
+     "Time (decimal)": 1.231111111111111
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "Logo",
+     "Time (h)": "03:20:00",
+     "Time (decimal)": 3.3333333333333335
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "Diplomarbeitsmeeting",
+     "Time (h)": "00:45:00",
+     "Time (decimal)": 0.75
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "branding book, mockups, website",
+     "Time (h)": "13:25:00",
+     "Time (decimal)": 13.416666666666666
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "prezi zeug",
+     "Time (h)": "02:15:21",
+     "Time (decimal)": 2.2558333333333334
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "research",
+     "Time (h)": "05:09:52",
+     "Time (decimal)": 5.164444444444444
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "landing page, login, timeline, dashboard",
+     "Time (h)": "05:55:00",
+     "Time (decimal)": 5.916666666666667
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "Projektauftrag",
+     "Time (h)": "00:50:00",
+     "Time (decimal)": 0.8333333333333334
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "arbeiten am plakat",
+     "Time (h)": "04:30:00",
+     "Time (decimal)": 4.5
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "timeline",
+     "Time (h)": "04:10:00",
+     "Time (decimal)": 4.166666666666667
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "logos, risikoanalyse",
+     "Time (h)": "01:40:00",
+     "Time (decimal)": 1.6666666666666667
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "zeitleiste",
+     "Time (h)": "00:33:00",
+     "Time (decimal)": 0.55
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "Planning Poker",
+     "Time (h)": "03:30:00",
+     "Time (decimal)": 3.5
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "überlegungen",
+     "Time (h)": "03:30:00",
+     "Time (decimal)": 3.5
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "adobe xd, freifächer, features",
+     "Time (h)": "02:03:00",
+     "Time (decimal)": 2.05
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "Vorbereitung - Diplomarbeitsmeeting",
+     "Time (h)": "01:50:00",
+     "Time (decimal)": 1.8333333333333333
+    },
+    {
+     "User": "Alla Gushchina",
+     "Description": "mobile timeline, profile, daily message, login, signup, dashboard",
+     "Time (h)": "03:55:00",
+     "Time (decimal)": 3.9166666666666665
+    },
+    {
+     "User": "Darius",
+     "Description": "ALL",
+     "Time (h)": "111:00:05",
+     "Time (decimal)": 111.00138888888888
+    },
+    {
+     "User": "Darius",
+     "Description": "Internes Meeting, Review, Retrospektive, Nächste Schritte, Planung für Interne Präsentation in LIZ",
+     "Time (h)": "02:40:00",
+     "Time (decimal)": 2.6666666666666665
+    },
+    {
+     "User": "Darius",
+     "Description": "powerpoint",
+     "Time (h)": "05:03:34",
+     "Time (decimal)": 5.059444444444445
+    },
+    {
+     "User": "Darius",
+     "Description": "Datenschutz Recherche",
+     "Time (h)": "01:34:20",
+     "Time (decimal)": 1.5722222222222222
+    },
+    {
+     "User": "Darius",
+     "Description": "Interne Präsentation Vorbereitung",
+     "Time (h)": "02:00:00",
+     "Time (decimal)": 2
+    },
+    {
+     "User": "Darius",
+     "Description": "Feedback zusammenschreiben",
+     "Time (h)": "01:40:31",
+     "Time (decimal)": 1.6752777777777779
+    },
+    {
+     "User": "Darius",
+     "Description": "Datenbank Besprechung",
+     "Time (h)": "02:40:00",
+     "Time (decimal)": 2.6666666666666665
+    },
+    {
+     "User": "Darius",
+     "Description": "Jahresreview Konzept, Planung, Sprint organisiert",
+     "Time (h)": "03:30:00",
+     "Time (decimal)": 3.5
+    },
+    {
+     "User": "Darius",
+     "Description": "Powerpoint renntime",
+     "Time (h)": "00:31:46",
+     "Time (decimal)": 0.5294444444444445
+    },
+    {
+     "User": "Darius",
+     "Description": "Datenschutz, WebUntis Integration",
+     "Time (h)": "01:40:00",
+     "Time (decimal)": 1.6666666666666667
+    },
+    {
+     "User": "Darius",
+     "Description": "Diplomarbeitsmeeting",
+     "Time (h)": "00:45:00",
+     "Time (decimal)": 0.75
+    },
+    {
+     "User": "Darius",
+     "Description": "Antrag verbessert",
+     "Time (h)": "00:46:22",
+     "Time (decimal)": 0.7727777777777778
+    },
+    {
+     "User": "Darius",
+     "Description": "Userstories Verteilung",
+     "Time (h)": "00:40:00",
+     "Time (decimal)": 0.6666666666666666
+    },
+    {
+     "User": "Darius",
+     "Description": "Airtable neu einrichten",
+     "Time (h)": "01:00:00",
+     "Time (decimal)": 1
+    },
+    {
+     "User": "Darius",
+     "Description": "Teambesprechungen + ZsmArbeit mit Mateusz",
+     "Time (h)": "02:40:00",
+     "Time (decimal)": 2.6666666666666665
+    },
+    {
+     "User": "Darius",
+     "Description": "Organisatorisch Feedback Zsm Schreiben",
+     "Time (h)": "00:50:00",
+     "Time (decimal)": 0.8333333333333334
+    },
+    {
+     "User": "Darius",
+     "Description": "Planning Poker, Value Points, Story Points",
+     "Time (h)": "03:30:00",
+     "Time (decimal)": 3.5
+    },
+    {
+     "User": "Darius",
+     "Description": "Logo weitergemacht",
+     "Time (h)": "02:30:00",
+     "Time (decimal)": 2.5
+    },
+    {
+     "User": "Darius",
+     "Description": "TimeLine",
+     "Time (h)": "02:25:35",
+     "Time (decimal)": 2.426388888888889
+    },
+    {
+     "User": "Darius",
+     "Description": "Sprints Planen",
+     "Time (h)": "01:21:57",
+     "Time (decimal)": 1.3658333333333332
+    },
+    {
+     "User": "Darius",
+     "Description": "Toft Planung",
+     "Time (h)": "01:50:00",
+     "Time (decimal)": 1.8333333333333333
+    },
+    {
+     "User": "Darius",
+     "Description": "Quiz Fragen \/ Jahresreview, Besprechung mit Weiss",
+     "Time (h)": "03:30:00",
+     "Time (decimal)": 3.5
+    },
+    {
+     "User": "Darius",
+     "Description": "Ansuchen",
+     "Time (h)": "10:10:00",
+     "Time (decimal)": 10.166666666666666
+    },
+    {
+     "User": "Darius",
+     "Description": "Interne Präsentation Powerpoint",
+     "Time (h)": "03:07:40",
+     "Time (decimal)": 3.1277777777777778
+    },
+    {
+     "User": "Darius",
+     "Description": "Airtable Userstories zerteilen",
+     "Time (h)": "02:10:42",
+     "Time (decimal)": 2.1783333333333332
+    },
+    {
+     "User": "Darius",
+     "Description": "Antrag",
+     "Time (h)": "15:32:21",
+     "Time (decimal)": 15.539166666666667
+    },
+    {
+     "User": "Darius",
+     "Description": "User Stories Point Verteilen",
+     "Time (h)": "00:40:00",
+     "Time (decimal)": 0.6666666666666666
+    },
+    {
+     "User": "Darius",
+     "Description": "Backlog erstellen und organisieren",
+     "Time (h)": "00:50:00",
+     "Time (decimal)": 0.8333333333333334
+    },
+    {
+     "User": "Darius",
+     "Description": "Sprint Review + Retrospektive Meeting",
+     "Time (h)": "01:15:00",
+     "Time (decimal)": 1.25
+    },
+    {
+     "User": "Darius",
+     "Description": "Vorbereitung - Diplomarbeitsmeeting",
+     "Time (h)": "01:50:00",
+     "Time (decimal)": 1.8333333333333333
+    },
+    {
+     "User": "Darius",
+     "Description": "Airtable bfb",
+     "Time (h)": "00:47:53",
+     "Time (decimal)": 0.7980555555555555
+    },
+    {
+     "User": "Darius",
+     "Description": "Sprint Retrospektive",
+     "Time (h)": "00:26:21",
+     "Time (decimal)": 0.43916666666666665
+    },
+    {
+     "User": "Darius",
+     "Description": "Quiz Fragen Konzept mit Mateusz",
+     "Time (h)": "03:30:00",
+     "Time (decimal)": 3.5
+    },
+    {
+     "User": "Darius",
+     "Description": "Logo erstellen",
+     "Time (h)": "00:50:00",
+     "Time (decimal)": 0.8333333333333334
+    },
+    {
+     "User": "Darius",
+     "Description": "Informationsstruktur Dashboard",
+     "Time (h)": "00:30:04",
+     "Time (decimal)": 0.5011111111111111
+    },
+    {
+     "User": "Darius",
+     "Description": "Plakat erstellen",
+     "Time (h)": "00:57:28",
+     "Time (decimal)": 0.9577777777777777
+    },
+    {
+     "User": "Darius",
+     "Description": "Sprint Review Planung",
+     "Time (h)": "00:29:39",
+     "Time (decimal)": 0.49416666666666664
+    },
+    {
+     "User": "Darius",
+     "Description": "Scrum Controlling",
+     "Time (h)": "03:41:02",
+     "Time (decimal)": 3.6838888888888888
+    },
+    {
+     "User": "Darius",
+     "Description": "Verlaufsdiagramm",
+     "Time (h)": "00:35:46",
+     "Time (decimal)": 0.5961111111111111
+    },
+    {
+     "User": "Darius",
+     "Description": "Plakat Verbesserung",
+     "Time (h)": "02:00:00",
+     "Time (decimal)": 2
+    },
+    {
+     "User": "Darius",
+     "Description": "Datenschutz Untis",
+     "Time (h)": "02:39:10",
+     "Time (decimal)": 2.6527777777777777
+    },
+    {
+     "User": "Darius",
+     "Description": "Sprint Review",
+     "Time (h)": "01:36:00",
+     "Time (decimal)": 1.6
+    },
+    {
+     "User": "Darius",
+     "Description": "Projektauftrag + Zieldefinition",
+     "Time (h)": "03:20:00",
+     "Time (decimal)": 3.3333333333333335
+    },
+    {
+     "User": "Darius",
+     "Description": "Protokoll 18.10",
+     "Time (h)": "00:22:41",
+     "Time (decimal)": 0.37805555555555553
+    },
+    {
+     "User": "Darius",
+     "Description": "Sprints &amp; Backlog einrichten",
+     "Time (h)": "02:05:00",
+     "Time (decimal)": 2.0833333333333335
+    },
+    {
+     "User": "Darius",
+     "Description": "Diplomdatenbankeintrag",
+     "Time (h)": "01:30:00",
+     "Time (decimal)": 1.5
+    },
+    {
+     "User": "Darius",
+     "Description": "Informationsstruktur",
+     "Time (h)": "02:18:13",
+     "Time (decimal)": 2.303611111111111
+    },
+    {
+     "User": "Darius",
+     "Description": "Backlog verbessert &amp; erweitert",
+     "Time (h)": "02:30:00",
+     "Time (decimal)": 2.5
+    },
+    {
+     "User": "Darius",
+     "Description": "Teams einrichten",
+     "Time (h)": "02:06:00",
+     "Time (decimal)": 2.1
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "ALL",
+     "Time (h)": "93:48:28",
+     "Time (decimal)": 93.80777777777777
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Datenschutz, WebUntis Integration",
+     "Time (h)": "06:55:00",
+     "Time (decimal)": 6.916666666666667
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Backlog verbessert &amp; erweitert",
+     "Time (h)": "02:30:00",
+     "Time (decimal)": 2.5
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Fehlerbehebung",
+     "Time (h)": "01:00:00",
+     "Time (decimal)": 1
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Diplomarbeitsmeeting",
+     "Time (h)": "00:45:00",
+     "Time (decimal)": 0.75
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Laravel Besprechung",
+     "Time (h)": "00:20:00",
+     "Time (decimal)": 0.3333333333333333
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Quizfragen",
+     "Time (h)": "07:00:00",
+     "Time (decimal)": 7
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Basic Frontend Layout\/Design, Bug Fixes",
+     "Time (h)": "05:05:06",
+     "Time (decimal)": 5.085
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Backlog erstellen und organisieren",
+     "Time (h)": "00:50:00",
+     "Time (decimal)": 0.8333333333333334
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Timeline Design",
+     "Time (h)": "13:50:14",
+     "Time (decimal)": 13.837222222222222
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "TOFT Planung",
+     "Time (h)": "01:50:00",
+     "Time (decimal)": 1.8333333333333333
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Vorbereitung - Diplomarbeitsmeeting",
+     "Time (h)": "01:45:00",
+     "Time (decimal)": 1.75
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Vorschau\/Projekt Wordpress Seite",
+     "Time (h)": "01:33:14",
+     "Time (decimal)": 1.5538888888888889
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Krank",
+     "Time (h)": "03:30:00",
+     "Time (decimal)": 3.5
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Projektauftrag + Zieldefinition",
+     "Time (h)": "03:20:00",
+     "Time (decimal)": 3.3333333333333335
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "ER Modell v2",
+     "Time (h)": "02:14:31",
+     "Time (decimal)": 2.2419444444444445
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Internal server error",
+     "Time (h)": "00:54:23",
+     "Time (decimal)": 0.9063888888888889
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Internes Meeting &amp; Review",
+     "Time (h)": "03:30:00",
+     "Time (decimal)": 3.5
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Datenbank - Models ergänzen",
+     "Time (h)": "01:25:00",
+     "Time (decimal)": 1.4166666666666667
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Datenbank Besprechung",
+     "Time (h)": "02:40:00",
+     "Time (decimal)": 2.6666666666666665
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Planning Poker",
+     "Time (h)": "03:30:00",
+     "Time (decimal)": 3.5
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Website Struktur",
+     "Time (h)": "01:55:00",
+     "Time (decimal)": 1.9166666666666667
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Logo Design",
+     "Time (h)": "03:25:00",
+     "Time (decimal)": 3.4166666666666665
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Google Calendar API",
+     "Time (h)": "06:37:00",
+     "Time (decimal)": 6.616666666666666
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Laravel Einführung",
+     "Time (h)": "02:20:00",
+     "Time (decimal)": 2.3333333333333335
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "WebUntis API",
+     "Time (h)": "02:29:00",
+     "Time (decimal)": 2.4833333333333334
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "ER Modell",
+     "Time (h)": "01:25:00",
+     "Time (decimal)": 1.4166666666666667
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "WebUntis API - Info Dokument",
+     "Time (h)": "01:50:00",
+     "Time (decimal)": 1.8333333333333333
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Plakat Verbesserung",
+     "Time (h)": "02:00:00",
+     "Time (decimal)": 2
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Datenbank, Allgemeine Bedenken für kommendes Meeting, Überlegungen &amp; Fragen zu Umsetzungen",
+     "Time (h)": "05:15:00",
+     "Time (decimal)": 5.25
+    },
+    {
+     "User": "Mateusz Kaminski",
+     "Description": "Instagram Posts Design",
+     "Time (h)": "02:05:00",
+     "Time (decimal)": 2.0833333333333335
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "ALL",
+     "Time (h)": "88:58:43",
+     "Time (decimal)": 88.9786111111111
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Profile Page",
+     "Time (h)": "03:02:13",
+     "Time (decimal)": 3.0369444444444444
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Daily Message and loader screen",
+     "Time (h)": "00:33:03",
+     "Time (decimal)": 0.5508333333333333
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Loading screen",
+     "Time (h)": "00:50:20",
+     "Time (decimal)": 0.8388888888888889
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Jahresreview",
+     "Time (h)": "07:00:02",
+     "Time (decimal)": 7.000555555555556
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Laravel Einführung",
+     "Time (h)": "02:20:00",
+     "Time (decimal)": 2.3333333333333335
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Webuntis Login",
+     "Time (h)": "03:38:29",
+     "Time (decimal)": 3.641388888888889
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Daily message extra command",
+     "Time (h)": "00:17:25",
+     "Time (decimal)": 0.2902777777777778
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Overall fixes and Daily Message",
+     "Time (h)": "02:37:13",
+     "Time (decimal)": 2.620277777777778
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Renntime Design changes",
+     "Time (h)": "00:45:32",
+     "Time (decimal)": 0.7588888888888888
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Login",
+     "Time (h)": "03:30:00",
+     "Time (decimal)": 3.5
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Note Feature Frontend",
+     "Time (h)": "03:32:55",
+     "Time (decimal)": 3.548611111111111
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Daily Message",
+     "Time (h)": "04:16:22",
+     "Time (decimal)": 4.272777777777778
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Working on models",
+     "Time (h)": "01:45:35",
+     "Time (decimal)": 1.7597222222222222
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Fixing and changing stuff",
+     "Time (h)": "01:40:51",
+     "Time (decimal)": 1.6808333333333334
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Login \/ Signup Vue error debugging",
+     "Time (h)": "01:44:23",
+     "Time (decimal)": 1.7397222222222222
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Signup Backend",
+     "Time (h)": "00:56:16",
+     "Time (decimal)": 0.9377777777777778
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Daily Message fix",
+     "Time (h)": "04:03:06",
+     "Time (decimal)": 4.051666666666667
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Frontend",
+     "Time (h)": "01:00:48",
+     "Time (decimal)": 1.0133333333333334
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Login Backend",
+     "Time (h)": "02:23:48",
+     "Time (decimal)": 2.3966666666666665
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Notes Feature Backend",
+     "Time (h)": "00:34:58",
+     "Time (decimal)": 0.5827777777777777
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Erstellung der ersten Controller",
+     "Time (h)": "00:06:00",
+     "Time (decimal)": 0.1
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Datenbank Update",
+     "Time (h)": "01:02:00",
+     "Time (decimal)": 1.0333333333333334
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Image Upload",
+     "Time (h)": "00:34:08",
+     "Time (decimal)": 0.5688888888888889
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Story Funktion",
+     "Time (h)": "06:41:09",
+     "Time (decimal)": 6.685833333333333
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Erstellung der ersten Version der Models",
+     "Time (h)": "00:32:00",
+     "Time (decimal)": 0.5333333333333333
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Freifächer",
+     "Time (h)": "05:15:58",
+     "Time (decimal)": 5.266111111111111
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Image Feature Backend",
+     "Time (h)": "00:55:15",
+     "Time (decimal)": 0.9208333333333333
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Diplomarbeit",
+     "Time (h)": "10:35:00",
+     "Time (decimal)": 10.583333333333334
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "login",
+     "Time (h)": "00:28:39",
+     "Time (decimal)": 0.4775
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Projekt Info Webseite",
+     "Time (h)": "05:00:00",
+     "Time (decimal)": 5
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Organisatorisches &amp; Projekt Website",
+     "Time (h)": "02:25:00",
+     "Time (decimal)": 2.4166666666666665
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Projekt Info Webseite Responsive",
+     "Time (h)": "02:00:00",
+     "Time (decimal)": 2
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Backend \/ Frontend proper setup",
+     "Time (h)": "02:18:54",
+     "Time (decimal)": 2.315
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Story",
+     "Time (h)": "00:35:21",
+     "Time (decimal)": 0.5891666666666666
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Verbesserung der Datenbank",
+     "Time (h)": "01:16:00",
+     "Time (decimal)": 1.2666666666666666
+    },
+    {
+     "User": "Viktor Karpinski",
+     "Description": "Datenbank Besprechung",
+     "Time (h)": "02:40:00",
+     "Time (decimal)": 2.6666666666666665
+    },
+    {
+     "User": "Total (01\/01\/2022 - 31\/12\/2022)",
+     "Description": "ALL",
+     "Time (h)": "432:06:21",
+     "Time (decimal)": 432.10583333333335
+    }
+   ]
